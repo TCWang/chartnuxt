@@ -6,12 +6,18 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "deploy": "gh-pages -d dist",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "nuxt": "^3.9.3",
     "vue": "^3.4.14",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxt/image-edge": "^1.3.0-28425166.9f7ad35",
+    "@vueuse/nuxt": "^10.7.2"
   }
 }
