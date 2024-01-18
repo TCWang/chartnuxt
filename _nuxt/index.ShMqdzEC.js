@@ -1,0 +1,1 @@
+import{_ as t,v as n,t as o,x as e}from"./entry.XK4AGy1B.js";const s={},c=e("h1",null,"2024 選舉分析",-1),_=e("h2",null,"總統選舉",-1),r=[c,_];function a(l,d){return o(),n("div",null,r)}const f=t(s,[["render",a]]);export{f as default};
