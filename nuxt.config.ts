@@ -9,6 +9,10 @@ export default defineNuxtConfig({
       src: "~/plugins/bootstrap.js",
       mode: "client",
     },
+    {
+      src: "~/plugins/chart.js",
+      mode: "client",
+    },
   ],
   vite: {
     define: {
