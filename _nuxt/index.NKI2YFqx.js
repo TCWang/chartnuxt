@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as s,x as c}from"./entry.1tT5ACBR.js";const o={},n={class:"container"},_=c("h1",null,"Chart.js Test Site",-1),a=[_];function r(i,d){return s(),t("div",n,a)}const f=e(o,[["render",r]]);export{f as default};

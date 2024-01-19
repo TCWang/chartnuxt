@@ -1,1 +1,0 @@
-import{_ as t}from"./NavBar.RigE64-7.js";import{_ as n,v as s,z as c,L as r,t as a}from"./entry.Me_B5_La.js";const _={},d={class:"container-fluid"};function f(e,l){const o=t;return a(),s("div",d,[c(o),r(e.$slots,"default")])}const p=n(_,[["render",f]]);export{p as default};
