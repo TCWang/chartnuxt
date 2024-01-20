@@ -1,1 +1,0 @@
-import{_ as o}from"./NavBar.nDkCSk9o.js";import{_ as n,v as s,z as a,Q as c,t as r}from"./entry.JrsqoaPl.js";const _={},d={class:"container-fluid"};function f(e,l){const t=o;return r(),s("div",d,[a(t),c(e.$slots,"default")])}const p=n(_,[["render",f]]);export{p as default};
