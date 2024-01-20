@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="m-4">
     <Line id="my-chart-id" :options="options" :data="data" />
   </div>
 </template>
@@ -16,7 +16,7 @@ import {
   Legend,
 } from "chart.js";
 import { Line } from "vue-chartjs";
-import * as chartConfig from "./Config.ts";
+import * as chartConfig from "./LineConfig.ts";
 
 ChartJS.register(
   Title,

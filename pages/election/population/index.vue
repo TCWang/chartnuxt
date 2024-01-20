@@ -2,7 +2,6 @@
   <div>
     <h1>2024 選舉分析</h1>
     <h2>人口成長趨勢</h2>
-    <ChartsTest08 />
   </div>
 </template>
 

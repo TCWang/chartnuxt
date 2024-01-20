@@ -1,11 +1,10 @@
 <template>
-  <div>
-    <Bar id="my-chart-id" :options="chartOptions" :data="chartData" />
+  <div class="m-4">
+    <Bar id="my-chart-id" :options="options" :data="data" />
   </div>
 </template>
 
 <script>
-import { Bar } from "vue-chartjs";
 import {
   Chart as ChartJS,
   Title,
@@ -15,6 +14,8 @@ import {
   CategoryScale,
   LinearScale,
 } from "chart.js";
+import { Bar } from "vue-chartjs";
+import * as chartConfig from "./BarConfig.ts";
 
 ChartJS.register(
   Title,
@@ -29,15 +30,7 @@ export default {
   name: "BarChart",
   components: { Bar },
   data() {
-    return {
-      chartData: {
-        labels: ["January", "February", "March"],
-        datasets: [{ data: [40, 20, 12] }],
-      },
-      chartOptions: {
-        responsive: true,
-      },
-    };
+    return chartConfig;
   },
 };
 </script>

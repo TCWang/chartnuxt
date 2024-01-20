@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="m-4">
     <Pie id="my-chart-id" :options="options" :data="data" />
   </div>
 </template>

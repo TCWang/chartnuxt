@@ -2,7 +2,9 @@
   <div>
     <h1>2024 選舉分析</h1>
     <h2>總統選舉</h2>
-    <ChartsTest03 />
+    <ChartsT07Bar />
+    <ChartsT08Line />
+    <ChartsT09Pie />
   </div>
 </template>
 
