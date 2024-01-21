@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="m-4">
     <Bar id="my-chart-id" :options="chartOptions" :data="chartData" />
   </div>
 </template>

@@ -5,6 +5,7 @@
     <ChartsT07Bar />
     <ChartsT08Line />
     <ChartsT09Pie />
+    <ChartsT11GetStart />
   </div>
 </template>
 
