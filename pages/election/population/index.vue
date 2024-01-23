@@ -5,6 +5,8 @@
 
     <ChartsQ07Bar />
     <ChartsQ08Line />
+    <ChartsQ11Line2Axes />
+    <ChartsQ12Line2AxesB />
   </div>
 </template>
 

@@ -42,6 +42,9 @@
                     >人口趨勢</a
                   >
                 </li>
+                <li>
+                  <a class="dropdown-item" href="/election/test">測試</a>
+                </li>
               </ul>
             </li>
           </ul>
