@@ -1,0 +1,1 @@
+import{_ as o}from"./NavBar.P9cde2h5.js";import{_ as n,v as s,z as a,Q as c,t as r}from"./entry.-tbmCp_O.js";const _={},d={class:"container-fluid"};function f(e,l){const t=o;return r(),s("div",d,[a(t),c(e.$slots,"default")])}const p=n(_,[["render",f]]);export{p as default};
